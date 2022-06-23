@@ -1,1 +1,1 @@
-# javascripttask2
+# javascripttask2-Calculator
